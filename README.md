@@ -1,5 +1,5 @@
 # PRODIGY_WD_02
-#  Stopwatch Web Application ( Task 1 ) 
+#  Stopwatch Web Application ( Task 2 ) 
 # ⏱️ Stopwatch Web Application
 
 A modern, responsive stopwatch app built using HTML, CSS, and JavaScript. Features a beautiful UI with animated flip digits, theme toggling, scroll-enabled lap tracking, and color-coded laps for easy readability.
@@ -29,7 +29,7 @@ A modern, responsive stopwatch app built using HTML, CSS, and JavaScript. Featur
 ![Screenshot 2025-06-23 225602](https://github.com/user-attachments/assets/3c551309-f3e4-46cc-a0ac-dcb977175516)
 
 
-# 🎮 Tic-Tac-Toe Web Application (Task 2)
+# 🎮 Tic-Tac-Toe Web Application (Task 3)
 
 A feature-rich, interactive **Tic-Tac-Toe** game built with **HTML, CSS, and JavaScript**, designed with a clean UI, smooth animations, multiple game modes, and persistent leaderboard support. Challenge a friend or battle AI at various difficulty levels — all in the browser!
 
@@ -61,7 +61,7 @@ A feature-rich, interactive **Tic-Tac-Toe** game built with **HTML, CSS, and Jav
 ![Screenshot 2025-06-24 161720](https://github.com/user-attachments/assets/7d9bbe5b-87cb-4ef1-8865-044207ec67fc)
 
 
-# 🌐 Responsive Landing Page (Task 3)
+# 🌐 Responsive Landing Page (Task 1)
 
 A sleek, modern **Landing Page Web Application** built using **HTML, CSS, and JavaScript**. This fully responsive website includes a hero section, animated scroll effects, mobile-friendly layout, a preloader, and a smooth navigation experience.
 
