@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Prajwal Gawande - Personal Portfolio Website</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body data-theme="light">
+  <div id="scrollProgress"></div>
+  <header>
+    <div><strong>Prajwal Gawande - Personal Portfolio Website</strong></div>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙</button>
+  </header>
+
+  <section class="hero" id="home">
+    <h1>Hello I'm Prajwal Gawande</h1>
+    <p>Creative Web Solutions | Seamless Design & Functionality</p>
+  </section>
+
+  <section id="about" class="glass-section" data-aos="fade-up">
+    <h2>About Me</h2>
+    <p>Hello! I'm Prajwal Gawande, a dedicated web developer with a passion for creating beautiful and performant websites. I specialize in front-end and full-stack development.</p>
+  </section>
+
+  <section id="skills" class="glass-section" data-aos="fade-up">
+    <h2>Skills</h2>
+    <div class="skills">
+      <div class="skill"><img src="https://img.icons8.com/color/48/html-5--v1.png"/>HTML</div>
+      <div class="skill"><img src="https://img.icons8.com/color/48/css3.png"/>CSS</div>
+      <div class="skill"><img src="https://img.icons8.com/color/48/javascript.png"/>JavaScript</div>
+      <div class="skill"><img src="https://img.icons8.com/color/48/python.png"/>Python</div>
+      <div class="skill"><img src="https://img.icons8.com/color/48/nodejs.png"/>Node.js</div>
+      <div class="skill"><img src="https://img.icons8.com/color/48/mysql-logo.png"/>MySQL</div>
+      <div class="skill"><img src="https://img.icons8.com/ios-glyphs/48/github.png"/>GitHub</div>
+      <div class="skill"><img src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png"/>Video Editing</div>
+    </div>
+  </section>
+
+  <section id="projects" class="glass-section" data-aos="fade-up">
+    <h2>Projects</h2>
+    <div class="projects">
+      <div class="card"><img src="https://img.icons8.com/ios-filled/50/000000/stopwatch.png"/>Stopwatch Web Application</div>
+      <div class="card"><img src="https://img.icons8.com/ios-filled/50/000000/controller.png"/>Tic-Tac-Toe Web application</div>
+      <div class="card"><img src="https://img.icons8.com/ios-filled/50/000000/web.png"/>Responsive Landing Page</div>
+      <div class="card"><img src="https://img.icons8.com/ios-filled/50/000000/business.png"/>Personal Portfolio Website</div>
+      <div class="card"><img src="https://img.icons8.com/ios-filled/50/000000/partly-cloudy-day.png"/>Weather App</div>
+    </div>
+  </section>
+
+  <section id="contact" class="glass-section" data-aos="fade-up">
+    <h2>Contact Me</h2>
+    <div class="contact-container">
+      <form class="contact-form" onsubmit="sendMail(); return false;">
+        <div class="input-group"><input type="text" id="name" required><label for="name">Name</label></div>
+        <div class="input-group"><input type="email" id="email" required><label for="email">Email</label></div>
+        <div class="input-group"><textarea id="message" required></textarea><label for="message">Message</label></div>
+        <button type="submit" class="send-btn">Send Message</button>
+      </form>
+    </div>
+  </section>
+
+  <footer><p>&copy; 2025 Prajwal Gawande | Built with ❤️</p></footer>
+  <button class="scroll-top" id="scrollTopBtn" onclick="scrollToTop()">↑</button>
+
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
