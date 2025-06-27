@@ -113,7 +113,7 @@ A modern, fully responsive personal portfolio website built using HTML, CSS, and
 ## 🖼️ Screenshots
 
 >
-Light Mode
+# Light Mode
 
 ![Screenshot 2025-06-26 181547](https://github.com/user-attachments/assets/b0cbae9f-980f-4ce8-8a52-aa2056be4c0d)
 
@@ -121,7 +121,7 @@ Light Mode
 
 ![Screenshot 2025-06-26 181736](https://github.com/user-attachments/assets/faa50e1d-fe76-4bee-9800-ec22d9275f67)
 
-Dark Mode
+# Dark Mode
 
 ![Screenshot 2025-06-26 181651](https://github.com/user-attachments/assets/1a8e532c-5f0b-48b6-8aec-32c48b6b0883)
 
