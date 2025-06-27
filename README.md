@@ -173,7 +173,7 @@ This project is aimed at strengthening core frontend skills including:
 
 ## 🖼️ Screenshots
 >
-#light Mode
+## Light Mode
 >
 ![Screenshot 2025-06-28 012409](https://github.com/user-attachments/assets/95c941cd-5166-48ca-a8df-8bcb1437dcdf)
 
@@ -189,7 +189,7 @@ This project is aimed at strengthening core frontend skills including:
 
 ![Screenshot 2025-06-28 012502](https://github.com/user-attachments/assets/027def9b-39f0-492a-9e2e-9d444edb21c2)
 
-##Dark Mode
+## Dark Mode
 >
 ![Screenshot 2025-06-28 012515](https://github.com/user-attachments/assets/dcd7cd77-7f97-4186-b514-ebf083c71d6d)
 
