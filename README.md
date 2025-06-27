@@ -189,6 +189,8 @@ This project is aimed at strengthening core frontend skills including:
 
 ![Screenshot 2025-06-28 012502](https://github.com/user-attachments/assets/027def9b-39f0-492a-9e2e-9d444edb21c2)
 
+![Screenshot 2025-06-28 012901](https://github.com/user-attachments/assets/f83e0996-7832-45b8-8966-97b39748a531)
+
 ## Dark Mode
 >
 ![Screenshot 2025-06-28 012515](https://github.com/user-attachments/assets/dcd7cd77-7f97-4186-b514-ebf083c71d6d)
