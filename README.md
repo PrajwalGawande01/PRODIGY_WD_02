@@ -30,38 +30,6 @@ A modern, responsive stopwatch app built using HTML, CSS, and JavaScript. Featur
 ![Screenshot 2025-06-23 225602](https://github.com/user-attachments/assets/3c551309-f3e4-46cc-a0ac-dcb977175516)
 
 
-# 🎮 Tic-Tac-Toe Web Application - Task 3
-
-A feature-rich, interactive **Tic-Tac-Toe** game built with **HTML, CSS, and JavaScript**, designed with a clean UI, smooth animations, multiple game modes, and persistent leaderboard support. Challenge a friend or battle AI at various difficulty levels — all in the browser!
-
-## 🚀 Features
-
-- 🎮 Game Modes: Player vs Player or AI (Easy / Medium / Hard)
-- 💡 Minimax algorithm used for unbeatable AI (Hard mode)
-- 🌓 Light/Dark theme toggle
-- 🧠 Intelligent AI with progressive difficulty
-- 🧮 Score tracking and persistent leaderboard (using LocalStorage)
-- 🧨 Confetti celebration on win!
-- ⏱️ Built-in timer for each round
-- 📱 Fully responsive layout
-
-## 🛠 Tech Stack
-
-- **HTML5**
-- **CSS3** (with custom properties and transitions)
-- **JavaScript (Vanilla)**
-- **Canvas Confetti JS** (for celebration effect)
-- **LocalStorage API** (for persistent leaderboard)
-
----
-
-## 📸 Screenshots
-
-![Screenshot 2025-06-24 161531](https://github.com/user-attachments/assets/92420f5d-51ef-4c26-9029-92508b6c9282)
-
-![Screenshot 2025-06-24 161720](https://github.com/user-attachments/assets/7d9bbe5b-87cb-4ef1-8865-044207ec67fc)
-
-
 # 🌐 Personal Portfolio Website - Prajwal Gawande - Task 4
 
 A modern, fully responsive personal portfolio website built using HTML, CSS, and JavaScript. This portfolio showcases my skills, projects, and includes an interactive contact form — all wrapped in a visually appealing dark/light theme design.
